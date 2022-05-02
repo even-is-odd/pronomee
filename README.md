@@ -1,6 +1,6 @@
 # pronomee
 
-agender pronouns (proposal)
+the original pronomex
 
 |          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 |----------|---------|--------|-----------------------|--------------------|-----------|
